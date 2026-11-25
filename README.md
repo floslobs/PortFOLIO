@@ -77,6 +77,7 @@ Incluye el documento de CV en PDF y la imagen de perfil para complementar la pre
 
 ## 📂 Estructura del repositorio
 
+```text
 PortFOLIO-master/
 ├── img/
 │   ├── fondo.jpg                   # Imagen de fondo del sitio
@@ -96,7 +97,7 @@ PortFOLIO-master/
 ├── .gitignore                      # Archivos ignorados por Git
 ├── LICENSE                         # Licencia del repositorio
 └── README.md                       # Documentación del proyecto
-
+```
 ---
 
 ## ▶️ Cómo visualizar el portfolio
