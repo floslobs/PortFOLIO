@@ -77,26 +77,27 @@ Incluye el documento de CV en PDF y la imagen de perfil para complementar la pre
 
 ## 📂 Estructura del repositorio
 
-```text
 PortFOLIO-master/
 ├── img/
-│   ├── fondo.jpg                  # Imagen de fondo del sitio
-│   ├── perfil.jpeg                # Foto de perfil
-│   ├── portfolio.jpeg             # Captura vinculada al portfolio
-│   ├── Projectemergencia.jpeg     # Captura del Proyecto Emergencia
-│   ├── registro.jpeg              # Captura vinculada a registro
-│   └── ubicacion.jpg              # Imagen de ubicación
+│   ├── fondo.jpg                   # Imagen de fondo del sitio
+│   ├── perfil.jpeg                 # Foto de perfil
+│   ├── portfolio.jpeg              # Captura vinculada al portfolio
+│   ├── Projectemergencia.jpeg      # Captura del Proyecto Emergencia
+│   ├── registro.jpeg               # Captura vinculada a registro
+│   └── ubicacion.jpg               # Imagen de ubicación
 ├── vid/
-│   ├── portfolio.mp4              # Video demostrativo del portfolio
-│   ├── projectemergencia.mp4      # Video demostrativo de Proyecto Emergencia
-│   └── registro.mp4               # Video demostrativo de registro
-├── Curriculum_FlorenciaLobosco.pdf # Currículum vitae en PDF
-├── index.html                     # Estructura principal de la página
-├── script.js                      # Lógica y comportamiento en JavaScript
-├── styles.css                     # Estilos y diseño visual
-├── .gitignore                     # Archivos ignorados por Git
-├── LICENSE                        # Licencia del repositorio
-└── README.md                      # Documentación del proyecto
+│   ├── portfolio.mp4               # Video demostrativo del portfolio
+│   ├── projectemergencia.mp4       # Video demostrativo de Proyecto Emergencia
+│   └── registro.mp4                # Video demostrativo de registro
+├── Curriculum_FlorenciaLobosco.pdf  # Currículum vitae en PDF
+├── index.html                      # Estructura principal de la página
+├── script.js                       # Lógica y comportamiento en JavaScript
+├── styles.css                      # Estilos y diseño visual
+├── .gitignore                      # Archivos ignorados por Git
+├── LICENSE                         # Licencia del repositorio
+└── README.md                       # Documentación del proyecto
+
+---
 
 ## ▶️ Cómo visualizar el portfolio
 
