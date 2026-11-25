@@ -97,3 +97,36 @@ PortFOLIO-master/
 ├── .gitignore                     # Archivos ignorados por Git
 ├── LICENSE                        # Licencia del repositorio
 └── README.md                      # Documentación del proyecto
+
+## ▶️ Cómo visualizar el portfolio
+
+Al tratarse de un sitio web estático con recursos locales, podés abrirlo directamente en tu navegador o servirlo con un servidor local:
+
+1. Abrir `index.html` en cualquier navegador web (Chrome, Firefox, Edge, etc.).
+2. O bien, si usás VS Code, abrir la carpeta con la extensión **Live Server** para previsualizar los cambios en tiempo real.
+
+---
+
+## 📚 Recursos incluidos en el repositorio
+
+Este repositorio reúne los archivos necesarios para presentar el sitio y sus recursos:
+
+- Código base de estructura, estilos y scripts (`index.html`, `styles.css`, `script.js`).
+- Material audiovisual en `img/` y `vid/`.
+- Documento `Curriculum_FlorenciaLobosco.pdf` y archivo `LICENSE`.
+
+---
+
+## 💡 Reflexión final
+
+Armar un portfolio propio es una forma concreta de reunir lo que voy construyendo, ordenar mis proyectos y mostrar cómo evolucionan mis desarrollos con el tiempo.
+
+Cada nueva sección, ajuste de diseño o proyecto incorporado suma experiencia práctica y me permite seguir mejorando mis herramientas como desarrolladora y analista.
+
+<div align="center">
+
+### 🌱 Un espacio para mostrar lo que construyo y seguir creciendo.
+
+**Diseñar, programar, documentar y seguir evolucionando.**
+
+</div>
